@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+.header {
+    color:white;
+    text-align: center;
+
+}
+
+.education {
+    color:greenyellow;
+    width:50vw;
+    text-align: center;
+}
+
+.experience {
+    color:blue;
+    width: 50vw;
+    text-align: center;
+}
+
+.skills {
+    color:red;
+    width: 50vw;
+    text-align: center;
+}
+
+.about-me {
+    color:purple;
+    text-align: center;
+    width: 49vw;
+    float:right;
+}
+
+.flashy {
+    background-color: grey;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
